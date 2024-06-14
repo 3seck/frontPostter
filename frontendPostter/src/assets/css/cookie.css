@@ -1,0 +1,23 @@
+.cookie-modal {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .cookie-modal-content {
+    display: inline-block;
+    padding: 10px;
+  }
+  
+  .cookie-modal button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
